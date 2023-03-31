@@ -1,6 +1,6 @@
 Name:		texlive-smart-eqn
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Automatic math symbol styling for LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/smart-eqn
