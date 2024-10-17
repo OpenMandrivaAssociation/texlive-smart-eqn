@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Automatic math symbol styling for LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/smart-eqn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/smart-eqn
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/smart-eqn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/smart-eqn.doc.r%{version}.tar.xz
